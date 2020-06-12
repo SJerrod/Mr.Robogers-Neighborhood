@@ -1,7 +1,7 @@
 // Buisness Logic
 
 const numberArray = function(createArray) {
-  let emptyArray = [];
+  let emptyArray = [0];
   const numberInput = parseInt($("input#number").val());
   for (let i=0; i < numberInput; i ++) {
     emptyArray.push(i+1)
