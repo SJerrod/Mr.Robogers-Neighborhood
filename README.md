@@ -19,9 +19,10 @@
 | Takes user input and returns it | hello | hello |
 | Program checks if input is correct(an interger) | text | "Incorrect input, please enter a number" |
 | Program returns a range from 0 to the input number | "6" | "1","2","3","4","5","6" |
-| Numbers that contain a 1: all digits are replaced (all digits) with "Beep!" | "1" | "Beep!" |
-| Numbers that contain a 2: all digits are replaced (all digits) with "Boop!" | "2" | "Boop!" |
-| Numbers that contain a 3: all digits are replaced (all digits) with "Won't you be my neighbor?" | "3" | "Won't you be my neighbor?" |
+| Numbers that contain a 1: all digits are replaced with "Beep!" | "1" | "Beep!" |
+| Numbers that contain a 2: all digits are replaced with "Boop!" | "2" | "Boop!" |
+| Numbers that contain a 3: all digits are replaced with "Won't you be my neighbor?" | "3" | "Won't you be my neighbor?" |
+| Program returns number range with replaced strings | 5 | "0", "Beep!", "Boop", "Won't you be my neighbor?", 4, 5 |
 
 ## Known Bugs
 No known bugs
