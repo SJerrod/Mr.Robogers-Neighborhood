@@ -17,7 +17,7 @@
 | Behavior | Input Example | Output Example |
 |----------|---------------|----------------|
 | Takes user input and returns it | hello | hello |
-| Program checks if input is correct(an interger) | text | "Incorrect input, please enter a number" |
+| Program checks if input is correct(an interger) | text | "Incorrect input, please enter a number >0" |
 | Program returns a range from 0 to the input number | "6" | "1","2","3","4","5","6" |
 | Numbers that contain a 1: all digits are replaced with "Beep!" | "1" | "Beep!" |
 | Numbers that contain a 2: all digits are replaced with "Boop!" | "2" | "Boop!" |
