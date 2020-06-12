@@ -22,6 +22,7 @@
 | Numbers that contain a 1: all digits are replaced with "Beep!" | "1" | "Beep!" |
 | Numbers that contain a 2: all digits are replaced with "Boop!" | "2" | "Boop!" |
 | Numbers that contain a 3: all digits are replaced with "Won't you be my neighbor?" | "3" | "Won't you be my neighbor?" |
+| 1st exception applies unless 2nd does, same goes for 3rd | "132" | "Won't you be my neighbor?" (because 3rd is prioritized exception) |
 | Program returns number range with replaced strings | 5 | "0", "Beep!", "Boop", "Won't you be my neighbor?", 4, 5 |
 
 ## Known Bugs

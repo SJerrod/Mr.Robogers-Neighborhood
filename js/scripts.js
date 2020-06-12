@@ -21,7 +21,7 @@ $(document).ready(function() {
       $("input#number").val();
       return;
     }
-    $("#answer").text(numberArray);
+    $("#answer").text(roboArray);
     $(".answer").show();
   });
 });
