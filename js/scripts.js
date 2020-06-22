@@ -30,7 +30,6 @@ $(document).ready(function() {
       $("input#number").val();
       return;
     }
-    $("input#number").val("");
     $("#answer").text(result);
     $(".answer").show();
   });

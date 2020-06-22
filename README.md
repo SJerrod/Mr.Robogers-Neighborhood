@@ -8,9 +8,13 @@
 
 ## Setup/Installation Requirements
 
-1. Go to the GitHub project repository
-2. Download file as a zip file to extract OR clone project using the .git URL.
-3. Navigate to folder and open index.html
+* [Open page in browser]()
+* [Github repo](https://github.com/SJerrod/Mr.Robogers-Neighborhood.git)
+* To open via Download click clone or download
+* Double click index.html to open in web browser
+* Or clone the directory onto your computer
+* Then open it using your prefered code/ text editor
+* Open index.html with prefered browser
 
 ## Specifications
 
