@@ -8,7 +8,7 @@
 
 ## Setup/Installation Requirements
 
-* [Open page in browser]()
+* [Open page in browser](https://sjerrod.github.io/Mr.Robogers-Neighborhood/)
 * [Github repo](https://github.com/SJerrod/Mr.Robogers-Neighborhood.git)
 * To open via Download click clone or download
 * Double click index.html to open in web browser
